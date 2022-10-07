@@ -1,0 +1,94 @@
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #f2f2f2;
+    margin-right: 30rem;
+    margin-left: 30rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+}
+
+h1 {
+    color: #0d0d0d;
+    text-shadow: 2px 2px 7px silver;
+    font-family: 'Cascadia Code', Helvetica, sans-serif;
+    font-size: 2.25rem;
+}
+
+.nav {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+.nav li {
+    margin-right: 1.25rem;
+    text-decoration: none;
+}
+
+.nav a {
+    text-decoration: none;
+    font-size: 1.25rem;
+    color: #0d0d0d;
+}
+
+.nav a:hover {
+    opacity: 0.75;
+    font-weight: 600;
+}
+
+#aboutMe {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+}
+
+.info h2 {
+    font-size: 2rem;
+}
+
+.info p {
+    font-size: 1.25rem;
+    line-height: 1.4;
+}
+
+#aboutMe img {
+    border-radius: 1.5rem;
+}
+
+#projects {
+    margin-top: 2rem;
+}
+
+#projects h2 {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+#projects ul {
+    list-style: circle;
+}
+
+#projects li {
+    font-size: 1.25rem;
+}
+
+#skillz {
+    margin-top: 2rem;
+}
+
+#skillz h2 {
+    font-size: 2rem;
+}
+
+
+#skillz img {
+    height: 4rem;
+    width: auto;
+    margin-right: 1rem;
+}
