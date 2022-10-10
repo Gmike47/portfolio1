@@ -98,3 +98,14 @@ h1 {
     width: 4rem;
     cursor: pointer;
 }
+
+.frog {
+    margin-top: 4rem;
+}
+
+#frog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 66%;
+}
