@@ -8,6 +8,34 @@ body {
     margin-left: 30rem;
 }
 
+@media only screen and (max-width: 1700px) {
+    body {
+        margin-right: 25rem;
+        margin-left: 25rem;
+    }
+}
+
+@media only screen and (max-width: 1450px) {
+    body {
+        margin-right: 18rem;
+        margin-left: 18rem;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    body {
+        margin-right: 5rem;
+        margin-left: 5rem;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    body {
+        margin-right: 1rem;
+        margin-left: 1rem;
+    }
+}
+
 header {
     display: flex;
     justify-content: space-between;
