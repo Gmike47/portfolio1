@@ -92,3 +92,9 @@ h1 {
     width: auto;
     margin-right: 1rem;
 }
+
+#contact img {
+    height: auto;
+    width: 4rem;
+    cursor: pointer;
+}
