@@ -78,6 +78,17 @@ h1 {
     font-size: 1.25rem;
 }
 
+#projects a {
+    color: black;
+    text-decoration: none;
+}
+
+#projects a:hover {
+    color: darkslategray;
+    font-weight: 600;
+    text-decoration: none;
+}
+
 #skillz {
     margin-top: 2rem;
 }
