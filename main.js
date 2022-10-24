@@ -7,3 +7,4 @@ if (day == 3) {
     forgy.alt = "It is wendesday my dudes. AHHHHHHHHHH";
 };
 
+//creates a function that checks the day, and if the day is wendesday than changes the gif plays on the main page and also the alt
