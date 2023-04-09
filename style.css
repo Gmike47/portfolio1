@@ -141,6 +141,16 @@ h1 {
     cursor: pointer;
 }
 
+.message {
+    font-size: 1.3rem;
+    color: rgb(24, 24, 70);
+    background-color: rgb(187, 217, 246);
+    width: 14%;
+    border-radius: 3rem;
+    padding: 0.5rem 1rem;
+    text-shadow: 1px 1px 1px rgb(174, 174, 185);
+}
+
 .frog {
     margin-top: 4rem;
     margin-bottom: 1rem;
